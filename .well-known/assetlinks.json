@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.cosmoscoffee.rezervasyon",
+    "sha256_cert_fingerprints": ["31:C5:73:D9:09:80:B7:38:2E:71:1E:B7:B9:14:2F:71:6B:25:63:40:20:33:62:30:58:EB:D4:EA:55:38:66:0D"]
+  }
+}]
